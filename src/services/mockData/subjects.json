@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "id": "1",
+    "name": "Mathematics",
+    "color": "#3B82F6",
+    "icon": "Calculator"
+  },
+  {
+    "Id": 2,
+    "id": "2",
+    "name": "History",
+    "color": "#F59E0B",
+    "icon": "Scroll"
+  },
+  {
+    "Id": 3,
+    "id": "3",
+    "name": "Chemistry",
+    "color": "#10B981",
+    "icon": "Flask"
+  },
+  {
+    "Id": 4,
+    "id": "4",
+    "name": "Literature",
+    "color": "#8B5CF6",
+    "icon": "BookOpen"
+  },
+  {
+    "Id": 5,
+    "id": "5",
+    "name": "Physics",
+    "color": "#EF4444",
+    "icon": "Atom"
+  },
+  {
+    "Id": 6,
+    "id": "6",
+    "name": "Biology",
+    "color": "#22C55E",
+    "icon": "Microscope"
+  },
+  {
+    "Id": 7,
+    "id": "7",
+    "name": "Spanish",
+    "color": "#EC4899",
+    "icon": "Languages"
+  },
+  {
+    "Id": 8,
+    "id": "8",
+    "name": "Computer Science",
+    "color": "#6366F1",
+    "icon": "Code"
+  },
+  {
+    "Id": 9,
+    "id": "9",
+    "name": "Economics",
+    "color": "#F97316",
+    "icon": "TrendingUp"
+  },
+  {
+    "Id": 10,
+    "id": "10",
+    "name": "Art",
+    "color": "#A855F7",
+    "icon": "Palette"
+  }
+]

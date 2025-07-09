@@ -6,9 +6,8 @@
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border;
   }
-  
   body {
     @apply bg-white text-gray-900 font-body;
   }

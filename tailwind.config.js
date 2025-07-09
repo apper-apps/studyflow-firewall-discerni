@@ -29,10 +29,11 @@ export default {
           700: '#be185d',
         },
         surface: '#F8FAFC',
-        success: '#10B981',
+success: '#10B981',
         warning: '#F59E0B',
         error: '#EF4444',
         info: '#3B82F6',
+        border: '#E5E7EB',
       },
       fontFamily: {
         display: ['Plus Jakarta Sans', 'sans-serif'],
